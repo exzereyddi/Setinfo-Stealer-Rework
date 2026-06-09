@@ -110,8 +110,8 @@ log_player_setinfo(id)
     iLen += formatex(szBuffer[iLen], charsmax(szBuffer) - iLen, "Time: %s^n", szTime);
     iLen += formatex(szBuffer[iLen], charsmax(szBuffer) - iLen, "Nick: %s, IP %s, SteamID: %s^n", szName, szIP, szSteamID);
 
-    if (szFlags[0] && !equal(szFlags, "z"))
-        iLen += formatex(szBuffer[iLen], charsmax(szBuffer) - iLen, "Flags: %s^n", szFlags);
+    if (szFlags[0])
+    iLen += formatex(szBuffer[iLen], charsmax(szBuffer) - iLen, "Flags: %s^n", szFlags);
 
     iLen += formatex(szBuffer[iLen], charsmax(szBuffer) - iLen, "Setinfo:^n");
 
