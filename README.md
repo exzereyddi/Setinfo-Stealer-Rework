@@ -48,3 +48,14 @@ amxmodx/logs/setinfo_stealer_chat/
 
 - **v1.0 (beta)** — hpp forever (оригинал)
 - **v1.1** — exz666 (доработка)
+
+
+<img width="1065" height="399" alt="image" src="https://github.com/user-attachments/assets/de46373b-de50-4760-a0f6-4a063a07ce78" />
+
+
+
+<img width="1078" height="688" alt="image" src="https://github.com/user-attachments/assets/dfd6ec2b-bd97-4072-9803-07d57f28c8f5" />
+
+
+
+<img width="1487" height="229" alt="image" src="https://github.com/user-attachments/assets/6f924ca6-07b8-45bd-b93d-6d0b7e5d2950" />
